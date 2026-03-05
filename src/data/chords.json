@@ -1,0 +1,6453 @@
+[
+  {
+    "Id": "c_maj",
+    "Root": "C",
+    "Quality": "Major",
+    "Name": "C Major",
+    "Difficulty": "Beginner",
+    "Genres": [
+      "Pop",
+      "Rock",
+      "Country",
+      "Folk"
+    ],
+    "Variations": [
+      {
+        "VariationName": "Open Position",
+        "BaseFret": 1,
+        "MutedStrings": [
+          6
+        ],
+        "OpenStrings": [
+          1,
+          3
+        ],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 3,
+            "Finger": "3"
+          },
+          {
+            "String": 4,
+            "Fret": 2,
+            "Finger": "2"
+          },
+          {
+            "String": 2,
+            "Fret": 1,
+            "Finger": "1"
+          }
+        ],
+        "Barres": []
+      },
+      {
+        "VariationName": "E-Shape Barre",
+        "BaseFret": 8,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 10,
+            "Finger": "3"
+          },
+          {
+            "String": 4,
+            "Fret": 10,
+            "Finger": "4"
+          },
+          {
+            "String": 3,
+            "Fret": 9,
+            "Finger": "2"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 8,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      },
+      {
+        "VariationName": "A-Shape Barre",
+        "BaseFret": 3,
+        "MutedStrings": [
+          6
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 5,
+            "Finger": "2"
+          },
+          {
+            "String": 3,
+            "Fret": 5,
+            "Finger": "3"
+          },
+          {
+            "String": 2,
+            "Fret": 5,
+            "Finger": "4"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 3,
+            "StartString": 1,
+            "EndString": 5,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "cs_maj",
+    "Root": "C#",
+    "Quality": "Major",
+    "Name": "C# Major",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Pop",
+      "R&B",
+      "Jazz"
+    ],
+    "Variations": [
+      {
+        "VariationName": "E-Shape Barre",
+        "BaseFret": 9,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 11,
+            "Finger": "3"
+          },
+          {
+            "String": 4,
+            "Fret": 11,
+            "Finger": "4"
+          },
+          {
+            "String": 3,
+            "Fret": 10,
+            "Finger": "2"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 9,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      },
+      {
+        "VariationName": "A-Shape Barre",
+        "BaseFret": 4,
+        "MutedStrings": [
+          6
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 6,
+            "Finger": "2"
+          },
+          {
+            "String": 3,
+            "Fret": 6,
+            "Finger": "3"
+          },
+          {
+            "String": 2,
+            "Fret": 6,
+            "Finger": "4"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 4,
+            "StartString": 1,
+            "EndString": 5,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "d_maj",
+    "Root": "D",
+    "Quality": "Major",
+    "Name": "D Major",
+    "Difficulty": "Beginner",
+    "Genres": [
+      "Pop",
+      "Rock",
+      "Country",
+      "Folk"
+    ],
+    "Variations": [
+      {
+        "VariationName": "Open Position",
+        "BaseFret": 1,
+        "MutedStrings": [
+          5,
+          6
+        ],
+        "OpenStrings": [
+          4
+        ],
+        "Positions": [
+          {
+            "String": 3,
+            "Fret": 2,
+            "Finger": "1"
+          },
+          {
+            "String": 2,
+            "Fret": 3,
+            "Finger": "3"
+          },
+          {
+            "String": 1,
+            "Fret": 2,
+            "Finger": "2"
+          }
+        ],
+        "Barres": []
+      },
+      {
+        "VariationName": "E-Shape Barre",
+        "BaseFret": 10,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 12,
+            "Finger": "3"
+          },
+          {
+            "String": 4,
+            "Fret": 12,
+            "Finger": "4"
+          },
+          {
+            "String": 3,
+            "Fret": 11,
+            "Finger": "2"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 10,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      },
+      {
+        "VariationName": "A-Shape Barre",
+        "BaseFret": 5,
+        "MutedStrings": [
+          6
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 7,
+            "Finger": "2"
+          },
+          {
+            "String": 3,
+            "Fret": 7,
+            "Finger": "3"
+          },
+          {
+            "String": 2,
+            "Fret": 7,
+            "Finger": "4"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 5,
+            "StartString": 1,
+            "EndString": 5,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "eb_maj",
+    "Root": "Eb",
+    "Quality": "Major",
+    "Name": "Eb Major",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Jazz",
+      "R&B",
+      "Blues"
+    ],
+    "Variations": [
+      {
+        "VariationName": "E-Shape Barre",
+        "BaseFret": 11,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 13,
+            "Finger": "3"
+          },
+          {
+            "String": 4,
+            "Fret": 13,
+            "Finger": "4"
+          },
+          {
+            "String": 3,
+            "Fret": 12,
+            "Finger": "2"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 11,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      },
+      {
+        "VariationName": "A-Shape Barre",
+        "BaseFret": 6,
+        "MutedStrings": [
+          6
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 8,
+            "Finger": "2"
+          },
+          {
+            "String": 3,
+            "Fret": 8,
+            "Finger": "3"
+          },
+          {
+            "String": 2,
+            "Fret": 8,
+            "Finger": "4"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 6,
+            "StartString": 1,
+            "EndString": 5,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "e_maj",
+    "Root": "E",
+    "Quality": "Major",
+    "Name": "E Major",
+    "Difficulty": "Beginner",
+    "Genres": [
+      "Rock",
+      "Blues",
+      "Pop",
+      "Metal"
+    ],
+    "Variations": [
+      {
+        "VariationName": "Open Position",
+        "BaseFret": 1,
+        "MutedStrings": [],
+        "OpenStrings": [
+          1,
+          2,
+          6
+        ],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 2,
+            "Finger": "2"
+          },
+          {
+            "String": 4,
+            "Fret": 2,
+            "Finger": "3"
+          },
+          {
+            "String": 3,
+            "Fret": 1,
+            "Finger": "1"
+          }
+        ],
+        "Barres": []
+      },
+      {
+        "VariationName": "A-Shape Barre",
+        "BaseFret": 7,
+        "MutedStrings": [
+          6
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 9,
+            "Finger": "2"
+          },
+          {
+            "String": 3,
+            "Fret": 9,
+            "Finger": "3"
+          },
+          {
+            "String": 2,
+            "Fret": 9,
+            "Finger": "4"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 7,
+            "StartString": 1,
+            "EndString": 5,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "f_maj",
+    "Root": "F",
+    "Quality": "Major",
+    "Name": "F Major",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Pop",
+      "Rock",
+      "R&B"
+    ],
+    "Variations": [
+      {
+        "VariationName": "E-Shape Barre",
+        "BaseFret": 1,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 3,
+            "Finger": "3"
+          },
+          {
+            "String": 4,
+            "Fret": 3,
+            "Finger": "4"
+          },
+          {
+            "String": 3,
+            "Fret": 2,
+            "Finger": "2"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 1,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      },
+      {
+        "VariationName": "A-Shape Barre",
+        "BaseFret": 8,
+        "MutedStrings": [
+          6
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 10,
+            "Finger": "2"
+          },
+          {
+            "String": 3,
+            "Fret": 10,
+            "Finger": "3"
+          },
+          {
+            "String": 2,
+            "Fret": 10,
+            "Finger": "4"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 8,
+            "StartString": 1,
+            "EndString": 5,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "fs_maj",
+    "Root": "F#",
+    "Quality": "Major",
+    "Name": "F# Major",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Metal",
+      "Rock",
+      "Pop"
+    ],
+    "Variations": [
+      {
+        "VariationName": "E-Shape Barre",
+        "BaseFret": 2,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 4,
+            "Finger": "3"
+          },
+          {
+            "String": 4,
+            "Fret": 4,
+            "Finger": "4"
+          },
+          {
+            "String": 3,
+            "Fret": 3,
+            "Finger": "2"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 2,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      },
+      {
+        "VariationName": "A-Shape Barre",
+        "BaseFret": 9,
+        "MutedStrings": [
+          6
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 11,
+            "Finger": "2"
+          },
+          {
+            "String": 3,
+            "Fret": 11,
+            "Finger": "3"
+          },
+          {
+            "String": 2,
+            "Fret": 11,
+            "Finger": "4"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 9,
+            "StartString": 1,
+            "EndString": 5,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "g_maj",
+    "Root": "G",
+    "Quality": "Major",
+    "Name": "G Major",
+    "Difficulty": "Beginner",
+    "Genres": [
+      "Pop",
+      "Rock",
+      "Country",
+      "Bluegrass"
+    ],
+    "Variations": [
+      {
+        "VariationName": "Open Position",
+        "BaseFret": 1,
+        "MutedStrings": [],
+        "OpenStrings": [
+          2,
+          3,
+          4
+        ],
+        "Positions": [
+          {
+            "String": 6,
+            "Fret": 3,
+            "Finger": "2"
+          },
+          {
+            "String": 5,
+            "Fret": 2,
+            "Finger": "1"
+          },
+          {
+            "String": 1,
+            "Fret": 3,
+            "Finger": "3"
+          }
+        ],
+        "Barres": []
+      },
+      {
+        "VariationName": "E-Shape Barre",
+        "BaseFret": 3,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 5,
+            "Finger": "3"
+          },
+          {
+            "String": 4,
+            "Fret": 5,
+            "Finger": "4"
+          },
+          {
+            "String": 3,
+            "Fret": 4,
+            "Finger": "2"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 3,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "ab_maj",
+    "Root": "Ab",
+    "Quality": "Major",
+    "Name": "Ab Major",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Pop",
+      "R&B",
+      "Jazz"
+    ],
+    "Variations": [
+      {
+        "VariationName": "E-Shape Barre",
+        "BaseFret": 4,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 6,
+            "Finger": "3"
+          },
+          {
+            "String": 4,
+            "Fret": 6,
+            "Finger": "4"
+          },
+          {
+            "String": 3,
+            "Fret": 5,
+            "Finger": "2"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 4,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "a_maj",
+    "Root": "A",
+    "Quality": "Major",
+    "Name": "A Major",
+    "Difficulty": "Beginner",
+    "Genres": [
+      "Pop",
+      "Rock",
+      "Country",
+      "Blues"
+    ],
+    "Variations": [
+      {
+        "VariationName": "Open Position",
+        "BaseFret": 1,
+        "MutedStrings": [
+          6
+        ],
+        "OpenStrings": [
+          1,
+          5
+        ],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 2,
+            "Finger": "1"
+          },
+          {
+            "String": 3,
+            "Fret": 2,
+            "Finger": "2"
+          },
+          {
+            "String": 2,
+            "Fret": 2,
+            "Finger": "3"
+          }
+        ],
+        "Barres": []
+      },
+      {
+        "VariationName": "E-Shape Barre",
+        "BaseFret": 5,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 7,
+            "Finger": "3"
+          },
+          {
+            "String": 4,
+            "Fret": 7,
+            "Finger": "4"
+          },
+          {
+            "String": 3,
+            "Fret": 6,
+            "Finger": "2"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 5,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "bb_maj",
+    "Root": "Bb",
+    "Quality": "Major",
+    "Name": "Bb Major",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Jazz",
+      "Blues",
+      "R&B",
+      "Pop"
+    ],
+    "Variations": [
+      {
+        "VariationName": "E-Shape Barre",
+        "BaseFret": 6,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 8,
+            "Finger": "3"
+          },
+          {
+            "String": 4,
+            "Fret": 8,
+            "Finger": "4"
+          },
+          {
+            "String": 3,
+            "Fret": 7,
+            "Finger": "2"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 6,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      },
+      {
+        "VariationName": "A-Shape Barre",
+        "BaseFret": 1,
+        "MutedStrings": [
+          6
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 3,
+            "Finger": "2"
+          },
+          {
+            "String": 3,
+            "Fret": 3,
+            "Finger": "3"
+          },
+          {
+            "String": 2,
+            "Fret": 3,
+            "Finger": "4"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 1,
+            "StartString": 1,
+            "EndString": 5,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "b_maj",
+    "Root": "B",
+    "Quality": "Major",
+    "Name": "B Major",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Rock",
+      "Pop",
+      "Country"
+    ],
+    "Variations": [
+      {
+        "VariationName": "E-Shape Barre",
+        "BaseFret": 7,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 9,
+            "Finger": "3"
+          },
+          {
+            "String": 4,
+            "Fret": 9,
+            "Finger": "4"
+          },
+          {
+            "String": 3,
+            "Fret": 8,
+            "Finger": "2"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 7,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      },
+      {
+        "VariationName": "A-Shape Barre",
+        "BaseFret": 2,
+        "MutedStrings": [
+          6
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 4,
+            "Finger": "2"
+          },
+          {
+            "String": 3,
+            "Fret": 4,
+            "Finger": "3"
+          },
+          {
+            "String": 2,
+            "Fret": 4,
+            "Finger": "4"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 2,
+            "StartString": 1,
+            "EndString": 5,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "c_min",
+    "Root": "C",
+    "Quality": "Minor",
+    "Name": "C Minor",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Pop",
+      "Rock",
+      "Country",
+      "Folk"
+    ],
+    "Variations": [
+      {
+        "VariationName": "E-Shape Minor Barre",
+        "BaseFret": 8,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 10,
+            "Finger": "3"
+          },
+          {
+            "String": 4,
+            "Fret": 10,
+            "Finger": "4"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 8,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      },
+      {
+        "VariationName": "A-Shape Minor Barre",
+        "BaseFret": 3,
+        "MutedStrings": [
+          6
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 5,
+            "Finger": "3"
+          },
+          {
+            "String": 3,
+            "Fret": 5,
+            "Finger": "4"
+          },
+          {
+            "String": 2,
+            "Fret": 4,
+            "Finger": "2"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 3,
+            "StartString": 1,
+            "EndString": 5,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "cs_min",
+    "Root": "C#",
+    "Quality": "Minor",
+    "Name": "C# Minor",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Pop",
+      "R&B",
+      "Jazz"
+    ],
+    "Variations": [
+      {
+        "VariationName": "E-Shape Minor Barre",
+        "BaseFret": 9,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 11,
+            "Finger": "3"
+          },
+          {
+            "String": 4,
+            "Fret": 11,
+            "Finger": "4"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 9,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      },
+      {
+        "VariationName": "A-Shape Minor Barre",
+        "BaseFret": 4,
+        "MutedStrings": [
+          6
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 6,
+            "Finger": "3"
+          },
+          {
+            "String": 3,
+            "Fret": 6,
+            "Finger": "4"
+          },
+          {
+            "String": 2,
+            "Fret": 5,
+            "Finger": "2"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 4,
+            "StartString": 1,
+            "EndString": 5,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "d_min",
+    "Root": "D",
+    "Quality": "Minor",
+    "Name": "D Minor",
+    "Difficulty": "Beginner",
+    "Genres": [
+      "Pop",
+      "Rock",
+      "Country",
+      "Folk"
+    ],
+    "Variations": [
+      {
+        "VariationName": "Open Position",
+        "BaseFret": 1,
+        "MutedStrings": [
+          5,
+          6
+        ],
+        "OpenStrings": [
+          4
+        ],
+        "Positions": [
+          {
+            "String": 3,
+            "Fret": 2,
+            "Finger": "2"
+          },
+          {
+            "String": 2,
+            "Fret": 3,
+            "Finger": "3"
+          },
+          {
+            "String": 1,
+            "Fret": 1,
+            "Finger": "1"
+          }
+        ],
+        "Barres": []
+      },
+      {
+        "VariationName": "E-Shape Minor Barre",
+        "BaseFret": 10,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 12,
+            "Finger": "3"
+          },
+          {
+            "String": 4,
+            "Fret": 12,
+            "Finger": "4"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 10,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      },
+      {
+        "VariationName": "A-Shape Minor Barre",
+        "BaseFret": 5,
+        "MutedStrings": [
+          6
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 7,
+            "Finger": "3"
+          },
+          {
+            "String": 3,
+            "Fret": 7,
+            "Finger": "4"
+          },
+          {
+            "String": 2,
+            "Fret": 6,
+            "Finger": "2"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 5,
+            "StartString": 1,
+            "EndString": 5,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "eb_min",
+    "Root": "Eb",
+    "Quality": "Minor",
+    "Name": "Eb Minor",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Jazz",
+      "R&B",
+      "Blues"
+    ],
+    "Variations": [
+      {
+        "VariationName": "E-Shape Minor Barre",
+        "BaseFret": 11,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 13,
+            "Finger": "3"
+          },
+          {
+            "String": 4,
+            "Fret": 13,
+            "Finger": "4"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 11,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      },
+      {
+        "VariationName": "A-Shape Minor Barre",
+        "BaseFret": 6,
+        "MutedStrings": [
+          6
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 8,
+            "Finger": "3"
+          },
+          {
+            "String": 3,
+            "Fret": 8,
+            "Finger": "4"
+          },
+          {
+            "String": 2,
+            "Fret": 7,
+            "Finger": "2"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 6,
+            "StartString": 1,
+            "EndString": 5,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "e_min",
+    "Root": "E",
+    "Quality": "Minor",
+    "Name": "E Minor",
+    "Difficulty": "Beginner",
+    "Genres": [
+      "Rock",
+      "Blues",
+      "Pop",
+      "Metal"
+    ],
+    "Variations": [
+      {
+        "VariationName": "Open Position",
+        "BaseFret": 1,
+        "MutedStrings": [],
+        "OpenStrings": [
+          1,
+          2,
+          3,
+          6
+        ],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 2,
+            "Finger": "2"
+          },
+          {
+            "String": 4,
+            "Fret": 2,
+            "Finger": "3"
+          }
+        ],
+        "Barres": []
+      },
+      {
+        "VariationName": "A-Shape Minor Barre",
+        "BaseFret": 7,
+        "MutedStrings": [
+          6
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 9,
+            "Finger": "3"
+          },
+          {
+            "String": 3,
+            "Fret": 9,
+            "Finger": "4"
+          },
+          {
+            "String": 2,
+            "Fret": 8,
+            "Finger": "2"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 7,
+            "StartString": 1,
+            "EndString": 5,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "f_min",
+    "Root": "F",
+    "Quality": "Minor",
+    "Name": "F Minor",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Pop",
+      "Rock",
+      "R&B"
+    ],
+    "Variations": [
+      {
+        "VariationName": "E-Shape Minor Barre",
+        "BaseFret": 1,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 3,
+            "Finger": "3"
+          },
+          {
+            "String": 4,
+            "Fret": 3,
+            "Finger": "4"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 1,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      },
+      {
+        "VariationName": "A-Shape Minor Barre",
+        "BaseFret": 8,
+        "MutedStrings": [
+          6
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 10,
+            "Finger": "3"
+          },
+          {
+            "String": 3,
+            "Fret": 10,
+            "Finger": "4"
+          },
+          {
+            "String": 2,
+            "Fret": 9,
+            "Finger": "2"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 8,
+            "StartString": 1,
+            "EndString": 5,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "fs_min",
+    "Root": "F#",
+    "Quality": "Minor",
+    "Name": "F# Minor",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Metal",
+      "Rock",
+      "Pop"
+    ],
+    "Variations": [
+      {
+        "VariationName": "E-Shape Minor Barre",
+        "BaseFret": 2,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 4,
+            "Finger": "3"
+          },
+          {
+            "String": 4,
+            "Fret": 4,
+            "Finger": "4"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 2,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      },
+      {
+        "VariationName": "A-Shape Minor Barre",
+        "BaseFret": 9,
+        "MutedStrings": [
+          6
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 11,
+            "Finger": "3"
+          },
+          {
+            "String": 3,
+            "Fret": 11,
+            "Finger": "4"
+          },
+          {
+            "String": 2,
+            "Fret": 10,
+            "Finger": "2"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 9,
+            "StartString": 1,
+            "EndString": 5,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "g_min",
+    "Root": "G",
+    "Quality": "Minor",
+    "Name": "G Minor",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Pop",
+      "Rock",
+      "Country",
+      "Bluegrass"
+    ],
+    "Variations": [
+      {
+        "VariationName": "E-Shape Minor Barre",
+        "BaseFret": 3,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 5,
+            "Finger": "3"
+          },
+          {
+            "String": 4,
+            "Fret": 5,
+            "Finger": "4"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 3,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "ab_min",
+    "Root": "Ab",
+    "Quality": "Minor",
+    "Name": "Ab Minor",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Pop",
+      "R&B",
+      "Jazz"
+    ],
+    "Variations": [
+      {
+        "VariationName": "E-Shape Minor Barre",
+        "BaseFret": 4,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 6,
+            "Finger": "3"
+          },
+          {
+            "String": 4,
+            "Fret": 6,
+            "Finger": "4"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 4,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "a_min",
+    "Root": "A",
+    "Quality": "Minor",
+    "Name": "A Minor",
+    "Difficulty": "Beginner",
+    "Genres": [
+      "Pop",
+      "Rock",
+      "Country",
+      "Blues"
+    ],
+    "Variations": [
+      {
+        "VariationName": "Open Position",
+        "BaseFret": 1,
+        "MutedStrings": [
+          6
+        ],
+        "OpenStrings": [
+          1,
+          5
+        ],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 2,
+            "Finger": "2"
+          },
+          {
+            "String": 3,
+            "Fret": 2,
+            "Finger": "3"
+          },
+          {
+            "String": 2,
+            "Fret": 1,
+            "Finger": "1"
+          }
+        ],
+        "Barres": []
+      },
+      {
+        "VariationName": "E-Shape Minor Barre",
+        "BaseFret": 5,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 7,
+            "Finger": "3"
+          },
+          {
+            "String": 4,
+            "Fret": 7,
+            "Finger": "4"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 5,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "bb_min",
+    "Root": "Bb",
+    "Quality": "Minor",
+    "Name": "Bb Minor",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Jazz",
+      "Blues",
+      "R&B",
+      "Pop"
+    ],
+    "Variations": [
+      {
+        "VariationName": "E-Shape Minor Barre",
+        "BaseFret": 6,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 8,
+            "Finger": "3"
+          },
+          {
+            "String": 4,
+            "Fret": 8,
+            "Finger": "4"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 6,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      },
+      {
+        "VariationName": "A-Shape Minor Barre",
+        "BaseFret": 1,
+        "MutedStrings": [
+          6
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 3,
+            "Finger": "3"
+          },
+          {
+            "String": 3,
+            "Fret": 3,
+            "Finger": "4"
+          },
+          {
+            "String": 2,
+            "Fret": 2,
+            "Finger": "2"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 1,
+            "StartString": 1,
+            "EndString": 5,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "b_min",
+    "Root": "B",
+    "Quality": "Minor",
+    "Name": "B Minor",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Rock",
+      "Pop",
+      "Country"
+    ],
+    "Variations": [
+      {
+        "VariationName": "E-Shape Minor Barre",
+        "BaseFret": 7,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 9,
+            "Finger": "3"
+          },
+          {
+            "String": 4,
+            "Fret": 9,
+            "Finger": "4"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 7,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      },
+      {
+        "VariationName": "A-Shape Minor Barre",
+        "BaseFret": 2,
+        "MutedStrings": [
+          6
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 4,
+            "Finger": "3"
+          },
+          {
+            "String": 3,
+            "Fret": 4,
+            "Finger": "4"
+          },
+          {
+            "String": 2,
+            "Fret": 3,
+            "Finger": "2"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 2,
+            "StartString": 1,
+            "EndString": 5,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "c_7",
+    "Root": "C",
+    "Quality": "Dominant 7",
+    "Name": "C7",
+    "Difficulty": "Beginner",
+    "Genres": [
+      "Pop",
+      "Rock",
+      "Country",
+      "Folk",
+      "Blues"
+    ],
+    "Variations": [
+      {
+        "VariationName": "Open Position",
+        "BaseFret": 1,
+        "MutedStrings": [
+          6
+        ],
+        "OpenStrings": [
+          1
+        ],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 3,
+            "Finger": "3"
+          },
+          {
+            "String": 4,
+            "Fret": 2,
+            "Finger": "2"
+          },
+          {
+            "String": 3,
+            "Fret": 3,
+            "Finger": "4"
+          },
+          {
+            "String": 2,
+            "Fret": 1,
+            "Finger": "1"
+          }
+        ],
+        "Barres": []
+      },
+      {
+        "VariationName": "E-Shape 7th Barre",
+        "BaseFret": 8,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 10,
+            "Finger": "3"
+          },
+          {
+            "String": 3,
+            "Fret": 9,
+            "Finger": "2"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 8,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      },
+      {
+        "VariationName": "A-Shape 7th Barre",
+        "BaseFret": 3,
+        "MutedStrings": [
+          6
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 5,
+            "Finger": "3"
+          },
+          {
+            "String": 2,
+            "Fret": 5,
+            "Finger": "4"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 3,
+            "StartString": 1,
+            "EndString": 5,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "cs_7",
+    "Root": "C#",
+    "Quality": "Dominant 7",
+    "Name": "C#7",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Pop",
+      "R&B",
+      "Jazz",
+      "Blues"
+    ],
+    "Variations": [
+      {
+        "VariationName": "E-Shape 7th Barre",
+        "BaseFret": 9,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 11,
+            "Finger": "3"
+          },
+          {
+            "String": 3,
+            "Fret": 10,
+            "Finger": "2"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 9,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      },
+      {
+        "VariationName": "A-Shape 7th Barre",
+        "BaseFret": 4,
+        "MutedStrings": [
+          6
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 6,
+            "Finger": "3"
+          },
+          {
+            "String": 2,
+            "Fret": 6,
+            "Finger": "4"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 4,
+            "StartString": 1,
+            "EndString": 5,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "d_7",
+    "Root": "D",
+    "Quality": "Dominant 7",
+    "Name": "D7",
+    "Difficulty": "Beginner",
+    "Genres": [
+      "Pop",
+      "Rock",
+      "Country",
+      "Folk",
+      "Blues"
+    ],
+    "Variations": [
+      {
+        "VariationName": "Open Position",
+        "BaseFret": 1,
+        "MutedStrings": [
+          5,
+          6
+        ],
+        "OpenStrings": [
+          4
+        ],
+        "Positions": [
+          {
+            "String": 3,
+            "Fret": 2,
+            "Finger": "2"
+          },
+          {
+            "String": 2,
+            "Fret": 1,
+            "Finger": "1"
+          },
+          {
+            "String": 1,
+            "Fret": 2,
+            "Finger": "3"
+          }
+        ],
+        "Barres": []
+      },
+      {
+        "VariationName": "E-Shape 7th Barre",
+        "BaseFret": 10,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 12,
+            "Finger": "3"
+          },
+          {
+            "String": 3,
+            "Fret": 11,
+            "Finger": "2"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 10,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      },
+      {
+        "VariationName": "A-Shape 7th Barre",
+        "BaseFret": 5,
+        "MutedStrings": [
+          6
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 7,
+            "Finger": "3"
+          },
+          {
+            "String": 2,
+            "Fret": 7,
+            "Finger": "4"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 5,
+            "StartString": 1,
+            "EndString": 5,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "eb_7",
+    "Root": "Eb",
+    "Quality": "Dominant 7",
+    "Name": "Eb7",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Jazz",
+      "R&B",
+      "Blues"
+    ],
+    "Variations": [
+      {
+        "VariationName": "E-Shape 7th Barre",
+        "BaseFret": 11,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 13,
+            "Finger": "3"
+          },
+          {
+            "String": 3,
+            "Fret": 12,
+            "Finger": "2"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 11,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      },
+      {
+        "VariationName": "A-Shape 7th Barre",
+        "BaseFret": 6,
+        "MutedStrings": [
+          6
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 8,
+            "Finger": "3"
+          },
+          {
+            "String": 2,
+            "Fret": 8,
+            "Finger": "4"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 6,
+            "StartString": 1,
+            "EndString": 5,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "e_7",
+    "Root": "E",
+    "Quality": "Dominant 7",
+    "Name": "E7",
+    "Difficulty": "Beginner",
+    "Genres": [
+      "Rock",
+      "Blues",
+      "Pop",
+      "Metal"
+    ],
+    "Variations": [
+      {
+        "VariationName": "Open Position",
+        "BaseFret": 1,
+        "MutedStrings": [],
+        "OpenStrings": [
+          1,
+          2,
+          4,
+          6
+        ],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 2,
+            "Finger": "2"
+          },
+          {
+            "String": 3,
+            "Fret": 1,
+            "Finger": "1"
+          }
+        ],
+        "Barres": []
+      },
+      {
+        "VariationName": "A-Shape 7th Barre",
+        "BaseFret": 7,
+        "MutedStrings": [
+          6
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 9,
+            "Finger": "3"
+          },
+          {
+            "String": 2,
+            "Fret": 9,
+            "Finger": "4"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 7,
+            "StartString": 1,
+            "EndString": 5,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "f_7",
+    "Root": "F",
+    "Quality": "Dominant 7",
+    "Name": "F7",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Pop",
+      "Rock",
+      "R&B",
+      "Blues"
+    ],
+    "Variations": [
+      {
+        "VariationName": "E-Shape 7th Barre",
+        "BaseFret": 1,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 3,
+            "Finger": "3"
+          },
+          {
+            "String": 3,
+            "Fret": 2,
+            "Finger": "2"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 1,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      },
+      {
+        "VariationName": "A-Shape 7th Barre",
+        "BaseFret": 8,
+        "MutedStrings": [
+          6
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 10,
+            "Finger": "3"
+          },
+          {
+            "String": 2,
+            "Fret": 10,
+            "Finger": "4"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 8,
+            "StartString": 1,
+            "EndString": 5,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "fs_7",
+    "Root": "F#",
+    "Quality": "Dominant 7",
+    "Name": "F#7",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Metal",
+      "Rock",
+      "Pop",
+      "Blues"
+    ],
+    "Variations": [
+      {
+        "VariationName": "E-Shape 7th Barre",
+        "BaseFret": 2,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 4,
+            "Finger": "3"
+          },
+          {
+            "String": 3,
+            "Fret": 3,
+            "Finger": "2"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 2,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      },
+      {
+        "VariationName": "A-Shape 7th Barre",
+        "BaseFret": 9,
+        "MutedStrings": [
+          6
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 11,
+            "Finger": "3"
+          },
+          {
+            "String": 2,
+            "Fret": 11,
+            "Finger": "4"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 9,
+            "StartString": 1,
+            "EndString": 5,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "g_7",
+    "Root": "G",
+    "Quality": "Dominant 7",
+    "Name": "G7",
+    "Difficulty": "Beginner",
+    "Genres": [
+      "Pop",
+      "Rock",
+      "Country",
+      "Bluegrass",
+      "Blues"
+    ],
+    "Variations": [
+      {
+        "VariationName": "Open Position",
+        "BaseFret": 1,
+        "MutedStrings": [],
+        "OpenStrings": [
+          2,
+          4,
+          6
+        ],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 2,
+            "Finger": "2"
+          },
+          {
+            "String": 1,
+            "Fret": 1,
+            "Finger": "1"
+          }
+        ],
+        "Barres": []
+      },
+      {
+        "VariationName": "E-Shape 7th Barre",
+        "BaseFret": 3,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 5,
+            "Finger": "3"
+          },
+          {
+            "String": 3,
+            "Fret": 4,
+            "Finger": "2"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 3,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "ab_7",
+    "Root": "Ab",
+    "Quality": "Dominant 7",
+    "Name": "Ab7",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Pop",
+      "R&B",
+      "Jazz",
+      "Blues"
+    ],
+    "Variations": [
+      {
+        "VariationName": "E-Shape 7th Barre",
+        "BaseFret": 4,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 6,
+            "Finger": "3"
+          },
+          {
+            "String": 3,
+            "Fret": 5,
+            "Finger": "2"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 4,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "a_7",
+    "Root": "A",
+    "Quality": "Dominant 7",
+    "Name": "A7",
+    "Difficulty": "Beginner",
+    "Genres": [
+      "Pop",
+      "Rock",
+      "Country",
+      "Blues"
+    ],
+    "Variations": [
+      {
+        "VariationName": "Open Position",
+        "BaseFret": 1,
+        "MutedStrings": [
+          6
+        ],
+        "OpenStrings": [
+          1,
+          3,
+          5
+        ],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 2,
+            "Finger": "2"
+          },
+          {
+            "String": 2,
+            "Fret": 2,
+            "Finger": "3"
+          }
+        ],
+        "Barres": []
+      },
+      {
+        "VariationName": "E-Shape 7th Barre",
+        "BaseFret": 5,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 7,
+            "Finger": "3"
+          },
+          {
+            "String": 3,
+            "Fret": 6,
+            "Finger": "2"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 5,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "bb_7",
+    "Root": "Bb",
+    "Quality": "Dominant 7",
+    "Name": "Bb7",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Jazz",
+      "Blues",
+      "R&B",
+      "Pop"
+    ],
+    "Variations": [
+      {
+        "VariationName": "E-Shape 7th Barre",
+        "BaseFret": 6,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 8,
+            "Finger": "3"
+          },
+          {
+            "String": 3,
+            "Fret": 7,
+            "Finger": "2"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 6,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      },
+      {
+        "VariationName": "A-Shape 7th Barre",
+        "BaseFret": 1,
+        "MutedStrings": [
+          6
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 3,
+            "Finger": "3"
+          },
+          {
+            "String": 2,
+            "Fret": 3,
+            "Finger": "4"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 1,
+            "StartString": 1,
+            "EndString": 5,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "b_7",
+    "Root": "B",
+    "Quality": "Dominant 7",
+    "Name": "B7",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Rock",
+      "Pop",
+      "Country",
+      "Blues"
+    ],
+    "Variations": [
+      {
+        "VariationName": "E-Shape 7th Barre",
+        "BaseFret": 7,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 9,
+            "Finger": "3"
+          },
+          {
+            "String": 3,
+            "Fret": 8,
+            "Finger": "2"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 7,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      },
+      {
+        "VariationName": "A-Shape 7th Barre",
+        "BaseFret": 2,
+        "MutedStrings": [
+          6
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 4,
+            "Finger": "3"
+          },
+          {
+            "String": 2,
+            "Fret": 4,
+            "Finger": "4"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 2,
+            "StartString": 1,
+            "EndString": 5,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "c_maj7",
+    "Root": "C",
+    "Quality": "Major 7",
+    "Name": "Cmaj7",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Jazz",
+      "Pop",
+      "R&B",
+      "Bossa Nova"
+    ],
+    "Variations": [
+      {
+        "VariationName": "Open Position",
+        "BaseFret": 1,
+        "MutedStrings": [
+          6
+        ],
+        "OpenStrings": [
+          1,
+          2,
+          3
+        ],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 3,
+            "Finger": "3"
+          },
+          {
+            "String": 4,
+            "Fret": 2,
+            "Finger": "2"
+          }
+        ],
+        "Barres": []
+      },
+      {
+        "VariationName": "A-Shape Maj7 Barre",
+        "BaseFret": 3,
+        "MutedStrings": [
+          6
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 5,
+            "Finger": "2"
+          },
+          {
+            "String": 3,
+            "Fret": 4,
+            "Finger": "3"
+          },
+          {
+            "String": 2,
+            "Fret": 5,
+            "Finger": "4"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 3,
+            "StartString": 1,
+            "EndString": 5,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "cs_maj7",
+    "Root": "C#",
+    "Quality": "Major 7",
+    "Name": "C#maj7",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Jazz",
+      "Pop",
+      "R&B",
+      "Bossa Nova"
+    ],
+    "Variations": [
+      {
+        "VariationName": "A-Shape Maj7 Barre",
+        "BaseFret": 4,
+        "MutedStrings": [
+          6
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 6,
+            "Finger": "2"
+          },
+          {
+            "String": 3,
+            "Fret": 5,
+            "Finger": "3"
+          },
+          {
+            "String": 2,
+            "Fret": 6,
+            "Finger": "4"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 4,
+            "StartString": 1,
+            "EndString": 5,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "d_maj7",
+    "Root": "D",
+    "Quality": "Major 7",
+    "Name": "Dmaj7",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Jazz",
+      "Pop",
+      "R&B",
+      "Bossa Nova"
+    ],
+    "Variations": [
+      {
+        "VariationName": "Open Position",
+        "BaseFret": 1,
+        "MutedStrings": [
+          5,
+          6
+        ],
+        "OpenStrings": [
+          4
+        ],
+        "Positions": [
+          {
+            "String": 3,
+            "Fret": 2,
+            "Finger": "1"
+          },
+          {
+            "String": 2,
+            "Fret": 2,
+            "Finger": "2"
+          },
+          {
+            "String": 1,
+            "Fret": 2,
+            "Finger": "3"
+          }
+        ],
+        "Barres": []
+      },
+      {
+        "VariationName": "A-Shape Maj7 Barre",
+        "BaseFret": 5,
+        "MutedStrings": [
+          6
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 7,
+            "Finger": "2"
+          },
+          {
+            "String": 3,
+            "Fret": 6,
+            "Finger": "3"
+          },
+          {
+            "String": 2,
+            "Fret": 7,
+            "Finger": "4"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 5,
+            "StartString": 1,
+            "EndString": 5,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "eb_maj7",
+    "Root": "Eb",
+    "Quality": "Major 7",
+    "Name": "Ebmaj7",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Jazz",
+      "Pop",
+      "R&B",
+      "Bossa Nova"
+    ],
+    "Variations": [
+      {
+        "VariationName": "A-Shape Maj7 Barre",
+        "BaseFret": 6,
+        "MutedStrings": [
+          6
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 8,
+            "Finger": "2"
+          },
+          {
+            "String": 3,
+            "Fret": 7,
+            "Finger": "3"
+          },
+          {
+            "String": 2,
+            "Fret": 8,
+            "Finger": "4"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 6,
+            "StartString": 1,
+            "EndString": 5,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "e_maj7",
+    "Root": "E",
+    "Quality": "Major 7",
+    "Name": "Emaj7",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Jazz",
+      "Pop",
+      "R&B",
+      "Bossa Nova"
+    ],
+    "Variations": [
+      {
+        "VariationName": "Open Position",
+        "BaseFret": 1,
+        "MutedStrings": [],
+        "OpenStrings": [
+          1,
+          2,
+          6
+        ],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 2,
+            "Finger": "3"
+          },
+          {
+            "String": 4,
+            "Fret": 1,
+            "Finger": "1"
+          },
+          {
+            "String": 3,
+            "Fret": 1,
+            "Finger": "2"
+          }
+        ],
+        "Barres": []
+      },
+      {
+        "VariationName": "A-Shape Maj7 Barre",
+        "BaseFret": 7,
+        "MutedStrings": [
+          6
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 9,
+            "Finger": "2"
+          },
+          {
+            "String": 3,
+            "Fret": 8,
+            "Finger": "3"
+          },
+          {
+            "String": 2,
+            "Fret": 9,
+            "Finger": "4"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 7,
+            "StartString": 1,
+            "EndString": 5,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "f_maj7",
+    "Root": "F",
+    "Quality": "Major 7",
+    "Name": "Fmaj7",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Jazz",
+      "Pop",
+      "R&B",
+      "Bossa Nova"
+    ],
+    "Variations": [
+      {
+        "VariationName": "Open Position",
+        "BaseFret": 1,
+        "MutedStrings": [
+          5,
+          6
+        ],
+        "OpenStrings": [
+          1
+        ],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 3,
+            "Finger": "3"
+          },
+          {
+            "String": 3,
+            "Fret": 2,
+            "Finger": "2"
+          },
+          {
+            "String": 2,
+            "Fret": 1,
+            "Finger": "1"
+          }
+        ],
+        "Barres": []
+      },
+      {
+        "VariationName": "A-Shape Maj7 Barre",
+        "BaseFret": 8,
+        "MutedStrings": [
+          6
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 10,
+            "Finger": "2"
+          },
+          {
+            "String": 3,
+            "Fret": 9,
+            "Finger": "3"
+          },
+          {
+            "String": 2,
+            "Fret": 10,
+            "Finger": "4"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 8,
+            "StartString": 1,
+            "EndString": 5,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "fs_maj7",
+    "Root": "F#",
+    "Quality": "Major 7",
+    "Name": "F#maj7",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Jazz",
+      "Pop",
+      "R&B",
+      "Bossa Nova"
+    ],
+    "Variations": [
+      {
+        "VariationName": "A-Shape Maj7 Barre",
+        "BaseFret": 9,
+        "MutedStrings": [
+          6
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 11,
+            "Finger": "2"
+          },
+          {
+            "String": 3,
+            "Fret": 10,
+            "Finger": "3"
+          },
+          {
+            "String": 2,
+            "Fret": 11,
+            "Finger": "4"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 9,
+            "StartString": 1,
+            "EndString": 5,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "g_maj7",
+    "Root": "G",
+    "Quality": "Major 7",
+    "Name": "Gmaj7",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Jazz",
+      "Pop",
+      "R&B",
+      "Bossa Nova"
+    ],
+    "Variations": [
+      {
+        "VariationName": "Open Position",
+        "BaseFret": 1,
+        "MutedStrings": [],
+        "OpenStrings": [
+          2,
+          3,
+          4
+        ],
+        "Positions": [
+          {
+            "String": 6,
+            "Fret": 3,
+            "Finger": "3"
+          },
+          {
+            "String": 5,
+            "Fret": 2,
+            "Finger": "2"
+          },
+          {
+            "String": 1,
+            "Fret": 2,
+            "Finger": "1"
+          }
+        ],
+        "Barres": []
+      }
+    ]
+  },
+  {
+    "Id": "a_maj7",
+    "Root": "A",
+    "Quality": "Major 7",
+    "Name": "Amaj7",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Jazz",
+      "Pop",
+      "R&B",
+      "Bossa Nova"
+    ],
+    "Variations": [
+      {
+        "VariationName": "Open Position",
+        "BaseFret": 1,
+        "MutedStrings": [
+          6
+        ],
+        "OpenStrings": [
+          1,
+          5
+        ],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 2,
+            "Finger": "2"
+          },
+          {
+            "String": 3,
+            "Fret": 1,
+            "Finger": "1"
+          },
+          {
+            "String": 2,
+            "Fret": 2,
+            "Finger": "3"
+          }
+        ],
+        "Barres": []
+      }
+    ]
+  },
+  {
+    "Id": "bb_maj7",
+    "Root": "Bb",
+    "Quality": "Major 7",
+    "Name": "Bbmaj7",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Jazz",
+      "Pop",
+      "R&B",
+      "Bossa Nova"
+    ],
+    "Variations": [
+      {
+        "VariationName": "A-Shape Maj7 Barre",
+        "BaseFret": 1,
+        "MutedStrings": [
+          6
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 3,
+            "Finger": "2"
+          },
+          {
+            "String": 3,
+            "Fret": 2,
+            "Finger": "3"
+          },
+          {
+            "String": 2,
+            "Fret": 3,
+            "Finger": "4"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 1,
+            "StartString": 1,
+            "EndString": 5,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "b_maj7",
+    "Root": "B",
+    "Quality": "Major 7",
+    "Name": "Bmaj7",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Jazz",
+      "Pop",
+      "R&B",
+      "Bossa Nova"
+    ],
+    "Variations": [
+      {
+        "VariationName": "A-Shape Maj7 Barre",
+        "BaseFret": 2,
+        "MutedStrings": [
+          6
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 4,
+            "Finger": "2"
+          },
+          {
+            "String": 3,
+            "Fret": 3,
+            "Finger": "3"
+          },
+          {
+            "String": 2,
+            "Fret": 4,
+            "Finger": "4"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 2,
+            "StartString": 1,
+            "EndString": 5,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "c_min7",
+    "Root": "C",
+    "Quality": "Minor 7",
+    "Name": "Cm7",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Jazz",
+      "Blues",
+      "Pop",
+      "R&B"
+    ],
+    "Variations": [
+      {
+        "VariationName": "E-Shape Minor 7 Barre",
+        "BaseFret": 8,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 10,
+            "Finger": "3"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 8,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      },
+      {
+        "VariationName": "A-Shape Minor 7 Barre",
+        "BaseFret": 3,
+        "MutedStrings": [
+          6
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 5,
+            "Finger": "3"
+          },
+          {
+            "String": 2,
+            "Fret": 4,
+            "Finger": "2"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 3,
+            "StartString": 1,
+            "EndString": 5,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "cs_min7",
+    "Root": "C#",
+    "Quality": "Minor 7",
+    "Name": "C#m7",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Jazz",
+      "Blues",
+      "Pop",
+      "R&B"
+    ],
+    "Variations": [
+      {
+        "VariationName": "E-Shape Minor 7 Barre",
+        "BaseFret": 9,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 11,
+            "Finger": "3"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 9,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      },
+      {
+        "VariationName": "A-Shape Minor 7 Barre",
+        "BaseFret": 4,
+        "MutedStrings": [
+          6
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 6,
+            "Finger": "3"
+          },
+          {
+            "String": 2,
+            "Fret": 5,
+            "Finger": "2"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 4,
+            "StartString": 1,
+            "EndString": 5,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "d_min7",
+    "Root": "D",
+    "Quality": "Minor 7",
+    "Name": "Dm7",
+    "Difficulty": "Beginner",
+    "Genres": [
+      "Jazz",
+      "Blues",
+      "Pop",
+      "R&B"
+    ],
+    "Variations": [
+      {
+        "VariationName": "Open Position",
+        "BaseFret": 1,
+        "MutedStrings": [
+          5,
+          6
+        ],
+        "OpenStrings": [
+          4
+        ],
+        "Positions": [
+          {
+            "String": 3,
+            "Fret": 2,
+            "Finger": "2"
+          },
+          {
+            "String": 2,
+            "Fret": 1,
+            "Finger": "1"
+          },
+          {
+            "String": 1,
+            "Fret": 1,
+            "Finger": "3"
+          }
+        ],
+        "Barres": []
+      },
+      {
+        "VariationName": "E-Shape Minor 7 Barre",
+        "BaseFret": 10,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 12,
+            "Finger": "3"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 10,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      },
+      {
+        "VariationName": "A-Shape Minor 7 Barre",
+        "BaseFret": 5,
+        "MutedStrings": [
+          6
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 7,
+            "Finger": "3"
+          },
+          {
+            "String": 2,
+            "Fret": 6,
+            "Finger": "2"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 5,
+            "StartString": 1,
+            "EndString": 5,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "eb_min7",
+    "Root": "Eb",
+    "Quality": "Minor 7",
+    "Name": "Ebm7",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Jazz",
+      "Blues",
+      "Pop",
+      "R&B"
+    ],
+    "Variations": [
+      {
+        "VariationName": "E-Shape Minor 7 Barre",
+        "BaseFret": 11,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 13,
+            "Finger": "3"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 11,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      },
+      {
+        "VariationName": "A-Shape Minor 7 Barre",
+        "BaseFret": 6,
+        "MutedStrings": [
+          6
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 8,
+            "Finger": "3"
+          },
+          {
+            "String": 2,
+            "Fret": 7,
+            "Finger": "2"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 6,
+            "StartString": 1,
+            "EndString": 5,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "e_min7",
+    "Root": "E",
+    "Quality": "Minor 7",
+    "Name": "Em7",
+    "Difficulty": "Beginner",
+    "Genres": [
+      "Jazz",
+      "Blues",
+      "Pop",
+      "R&B"
+    ],
+    "Variations": [
+      {
+        "VariationName": "Open Position",
+        "BaseFret": 1,
+        "MutedStrings": [],
+        "OpenStrings": [
+          1,
+          3,
+          6
+        ],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 2,
+            "Finger": "1"
+          },
+          {
+            "String": 4,
+            "Fret": 2,
+            "Finger": "2"
+          },
+          {
+            "String": 2,
+            "Fret": 3,
+            "Finger": "3"
+          }
+        ],
+        "Barres": []
+      },
+      {
+        "VariationName": "A-Shape Minor 7 Barre",
+        "BaseFret": 7,
+        "MutedStrings": [
+          6
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 9,
+            "Finger": "3"
+          },
+          {
+            "String": 2,
+            "Fret": 8,
+            "Finger": "2"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 7,
+            "StartString": 1,
+            "EndString": 5,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "f_min7",
+    "Root": "F",
+    "Quality": "Minor 7",
+    "Name": "Fm7",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Jazz",
+      "Blues",
+      "Pop",
+      "R&B"
+    ],
+    "Variations": [
+      {
+        "VariationName": "E-Shape Minor 7 Barre",
+        "BaseFret": 1,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 3,
+            "Finger": "3"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 1,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      },
+      {
+        "VariationName": "A-Shape Minor 7 Barre",
+        "BaseFret": 8,
+        "MutedStrings": [
+          6
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 10,
+            "Finger": "3"
+          },
+          {
+            "String": 2,
+            "Fret": 9,
+            "Finger": "2"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 8,
+            "StartString": 1,
+            "EndString": 5,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "fs_min7",
+    "Root": "F#",
+    "Quality": "Minor 7",
+    "Name": "F#m7",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Jazz",
+      "Blues",
+      "Pop",
+      "R&B"
+    ],
+    "Variations": [
+      {
+        "VariationName": "E-Shape Minor 7 Barre",
+        "BaseFret": 2,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 4,
+            "Finger": "3"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 2,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      },
+      {
+        "VariationName": "A-Shape Minor 7 Barre",
+        "BaseFret": 9,
+        "MutedStrings": [
+          6
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 11,
+            "Finger": "3"
+          },
+          {
+            "String": 2,
+            "Fret": 10,
+            "Finger": "2"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 9,
+            "StartString": 1,
+            "EndString": 5,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "g_min7",
+    "Root": "G",
+    "Quality": "Minor 7",
+    "Name": "Gm7",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Jazz",
+      "Blues",
+      "Pop",
+      "R&B"
+    ],
+    "Variations": [
+      {
+        "VariationName": "E-Shape Minor 7 Barre",
+        "BaseFret": 3,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 5,
+            "Finger": "3"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 3,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "ab_min7",
+    "Root": "Ab",
+    "Quality": "Minor 7",
+    "Name": "Abm7",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Jazz",
+      "Blues",
+      "Pop",
+      "R&B"
+    ],
+    "Variations": [
+      {
+        "VariationName": "E-Shape Minor 7 Barre",
+        "BaseFret": 4,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 6,
+            "Finger": "3"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 4,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "a_min7",
+    "Root": "A",
+    "Quality": "Minor 7",
+    "Name": "Am7",
+    "Difficulty": "Beginner",
+    "Genres": [
+      "Jazz",
+      "Blues",
+      "Pop",
+      "R&B"
+    ],
+    "Variations": [
+      {
+        "VariationName": "Open Position",
+        "BaseFret": 1,
+        "MutedStrings": [
+          6
+        ],
+        "OpenStrings": [
+          1,
+          3,
+          5
+        ],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 2,
+            "Finger": "2"
+          },
+          {
+            "String": 2,
+            "Fret": 1,
+            "Finger": "1"
+          }
+        ],
+        "Barres": []
+      },
+      {
+        "VariationName": "E-Shape Minor 7 Barre",
+        "BaseFret": 5,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 7,
+            "Finger": "3"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 5,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "bb_min7",
+    "Root": "Bb",
+    "Quality": "Minor 7",
+    "Name": "Bbm7",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Jazz",
+      "Blues",
+      "Pop",
+      "R&B"
+    ],
+    "Variations": [
+      {
+        "VariationName": "E-Shape Minor 7 Barre",
+        "BaseFret": 6,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 8,
+            "Finger": "3"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 6,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      },
+      {
+        "VariationName": "A-Shape Minor 7 Barre",
+        "BaseFret": 1,
+        "MutedStrings": [
+          6
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 3,
+            "Finger": "3"
+          },
+          {
+            "String": 2,
+            "Fret": 2,
+            "Finger": "2"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 1,
+            "StartString": 1,
+            "EndString": 5,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "b_min7",
+    "Root": "B",
+    "Quality": "Minor 7",
+    "Name": "Bm7",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Jazz",
+      "Blues",
+      "Pop",
+      "R&B"
+    ],
+    "Variations": [
+      {
+        "VariationName": "E-Shape Minor 7 Barre",
+        "BaseFret": 7,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 9,
+            "Finger": "3"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 7,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      },
+      {
+        "VariationName": "A-Shape Minor 7 Barre",
+        "BaseFret": 2,
+        "MutedStrings": [
+          6
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 4,
+            "Finger": "3"
+          },
+          {
+            "String": 2,
+            "Fret": 3,
+            "Finger": "2"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 2,
+            "StartString": 1,
+            "EndString": 5,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "c_sus2",
+    "Root": "C",
+    "Quality": "Sus2",
+    "Name": "Csus2",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Pop",
+      "Rock",
+      "Alternative",
+      "Ambient"
+    ],
+    "Variations": [
+      {
+        "VariationName": "E-Shape Sus2 Barre",
+        "BaseFret": 8,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 10,
+            "Finger": "3"
+          },
+          {
+            "String": 3,
+            "Fret": 10,
+            "Finger": "4"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 8,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "cs_sus2",
+    "Root": "C#",
+    "Quality": "Sus2",
+    "Name": "C#sus2",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Pop",
+      "Rock",
+      "Alternative",
+      "Ambient"
+    ],
+    "Variations": [
+      {
+        "VariationName": "E-Shape Sus2 Barre",
+        "BaseFret": 9,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 11,
+            "Finger": "3"
+          },
+          {
+            "String": 3,
+            "Fret": 11,
+            "Finger": "4"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 9,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "d_sus2",
+    "Root": "D",
+    "Quality": "Sus2",
+    "Name": "Dsus2",
+    "Difficulty": "Beginner",
+    "Genres": [
+      "Pop",
+      "Rock",
+      "Alternative",
+      "Ambient"
+    ],
+    "Variations": [
+      {
+        "VariationName": "Open Position",
+        "BaseFret": 1,
+        "MutedStrings": [
+          5,
+          6
+        ],
+        "OpenStrings": [
+          4,
+          1
+        ],
+        "Positions": [
+          {
+            "String": 3,
+            "Fret": 2,
+            "Finger": "1"
+          },
+          {
+            "String": 2,
+            "Fret": 3,
+            "Finger": "3"
+          }
+        ],
+        "Barres": []
+      },
+      {
+        "VariationName": "E-Shape Sus2 Barre",
+        "BaseFret": 10,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 12,
+            "Finger": "3"
+          },
+          {
+            "String": 3,
+            "Fret": 12,
+            "Finger": "4"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 10,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "eb_sus2",
+    "Root": "Eb",
+    "Quality": "Sus2",
+    "Name": "Ebsus2",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Pop",
+      "Rock",
+      "Alternative",
+      "Ambient"
+    ],
+    "Variations": [
+      {
+        "VariationName": "E-Shape Sus2 Barre",
+        "BaseFret": 11,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 13,
+            "Finger": "3"
+          },
+          {
+            "String": 3,
+            "Fret": 13,
+            "Finger": "4"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 11,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "e_sus2",
+    "Root": "E",
+    "Quality": "Sus2",
+    "Name": "Esus2",
+    "Difficulty": "Beginner",
+    "Genres": [
+      "Pop",
+      "Rock",
+      "Alternative",
+      "Ambient"
+    ],
+    "Variations": [
+      {
+        "VariationName": "Open Position",
+        "BaseFret": 1,
+        "MutedStrings": [],
+        "OpenStrings": [
+          1,
+          2,
+          4,
+          6
+        ],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 2,
+            "Finger": "1"
+          },
+          {
+            "String": 3,
+            "Fret": 2,
+            "Finger": "2"
+          }
+        ],
+        "Barres": []
+      }
+    ]
+  },
+  {
+    "Id": "f_sus2",
+    "Root": "F",
+    "Quality": "Sus2",
+    "Name": "Fsus2",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Pop",
+      "Rock",
+      "Alternative",
+      "Ambient"
+    ],
+    "Variations": [
+      {
+        "VariationName": "E-Shape Sus2 Barre",
+        "BaseFret": 1,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 3,
+            "Finger": "3"
+          },
+          {
+            "String": 3,
+            "Fret": 3,
+            "Finger": "4"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 1,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "fs_sus2",
+    "Root": "F#",
+    "Quality": "Sus2",
+    "Name": "F#sus2",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Pop",
+      "Rock",
+      "Alternative",
+      "Ambient"
+    ],
+    "Variations": [
+      {
+        "VariationName": "E-Shape Sus2 Barre",
+        "BaseFret": 2,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 4,
+            "Finger": "3"
+          },
+          {
+            "String": 3,
+            "Fret": 4,
+            "Finger": "4"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 2,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "g_sus2",
+    "Root": "G",
+    "Quality": "Sus2",
+    "Name": "Gsus2",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Pop",
+      "Rock",
+      "Alternative",
+      "Ambient"
+    ],
+    "Variations": [
+      {
+        "VariationName": "E-Shape Sus2 Barre",
+        "BaseFret": 3,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 5,
+            "Finger": "3"
+          },
+          {
+            "String": 3,
+            "Fret": 5,
+            "Finger": "4"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 3,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "ab_sus2",
+    "Root": "Ab",
+    "Quality": "Sus2",
+    "Name": "Absus2",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Pop",
+      "Rock",
+      "Alternative",
+      "Ambient"
+    ],
+    "Variations": [
+      {
+        "VariationName": "E-Shape Sus2 Barre",
+        "BaseFret": 4,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 6,
+            "Finger": "3"
+          },
+          {
+            "String": 3,
+            "Fret": 6,
+            "Finger": "4"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 4,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "a_sus2",
+    "Root": "A",
+    "Quality": "Sus2",
+    "Name": "Asus2",
+    "Difficulty": "Beginner",
+    "Genres": [
+      "Pop",
+      "Rock",
+      "Alternative",
+      "Ambient"
+    ],
+    "Variations": [
+      {
+        "VariationName": "Open Position",
+        "BaseFret": 1,
+        "MutedStrings": [
+          6
+        ],
+        "OpenStrings": [
+          1,
+          2,
+          5
+        ],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 2,
+            "Finger": "1"
+          },
+          {
+            "String": 3,
+            "Fret": 2,
+            "Finger": "2"
+          }
+        ],
+        "Barres": []
+      },
+      {
+        "VariationName": "E-Shape Sus2 Barre",
+        "BaseFret": 5,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 7,
+            "Finger": "3"
+          },
+          {
+            "String": 3,
+            "Fret": 7,
+            "Finger": "4"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 5,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "bb_sus2",
+    "Root": "Bb",
+    "Quality": "Sus2",
+    "Name": "Bbsus2",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Pop",
+      "Rock",
+      "Alternative",
+      "Ambient"
+    ],
+    "Variations": [
+      {
+        "VariationName": "E-Shape Sus2 Barre",
+        "BaseFret": 6,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 8,
+            "Finger": "3"
+          },
+          {
+            "String": 3,
+            "Fret": 8,
+            "Finger": "4"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 6,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "b_sus2",
+    "Root": "B",
+    "Quality": "Sus2",
+    "Name": "Bsus2",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Pop",
+      "Rock",
+      "Alternative",
+      "Ambient"
+    ],
+    "Variations": [
+      {
+        "VariationName": "E-Shape Sus2 Barre",
+        "BaseFret": 7,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 9,
+            "Finger": "3"
+          },
+          {
+            "String": 3,
+            "Fret": 9,
+            "Finger": "4"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 7,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "c_sus4",
+    "Root": "C",
+    "Quality": "Sus4",
+    "Name": "Csus4",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Pop",
+      "Rock",
+      "Alternative"
+    ],
+    "Variations": [
+      {
+        "VariationName": "E-Shape Sus4 Barre",
+        "BaseFret": 8,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 10,
+            "Finger": "3"
+          },
+          {
+            "String": 4,
+            "Fret": 10,
+            "Finger": "4"
+          },
+          {
+            "String": 3,
+            "Fret": 10,
+            "Finger": "2"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 8,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "cs_sus4",
+    "Root": "C#",
+    "Quality": "Sus4",
+    "Name": "C#sus4",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Pop",
+      "Rock",
+      "Alternative"
+    ],
+    "Variations": [
+      {
+        "VariationName": "E-Shape Sus4 Barre",
+        "BaseFret": 9,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 11,
+            "Finger": "3"
+          },
+          {
+            "String": 4,
+            "Fret": 11,
+            "Finger": "4"
+          },
+          {
+            "String": 3,
+            "Fret": 11,
+            "Finger": "2"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 9,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "d_sus4",
+    "Root": "D",
+    "Quality": "Sus4",
+    "Name": "Dsus4",
+    "Difficulty": "Beginner",
+    "Genres": [
+      "Pop",
+      "Rock",
+      "Alternative"
+    ],
+    "Variations": [
+      {
+        "VariationName": "Open Position",
+        "BaseFret": 1,
+        "MutedStrings": [
+          5,
+          6
+        ],
+        "OpenStrings": [
+          4,
+          1
+        ],
+        "Positions": [
+          {
+            "String": 3,
+            "Fret": 2,
+            "Finger": "1"
+          },
+          {
+            "String": 2,
+            "Fret": 3,
+            "Finger": "3"
+          }
+        ],
+        "Barres": []
+      },
+      {
+        "VariationName": "E-Shape Sus4 Barre",
+        "BaseFret": 10,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 12,
+            "Finger": "3"
+          },
+          {
+            "String": 4,
+            "Fret": 12,
+            "Finger": "4"
+          },
+          {
+            "String": 3,
+            "Fret": 12,
+            "Finger": "2"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 10,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "eb_sus4",
+    "Root": "Eb",
+    "Quality": "Sus4",
+    "Name": "Ebsus4",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Pop",
+      "Rock",
+      "Alternative"
+    ],
+    "Variations": [
+      {
+        "VariationName": "E-Shape Sus4 Barre",
+        "BaseFret": 11,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 13,
+            "Finger": "3"
+          },
+          {
+            "String": 4,
+            "Fret": 13,
+            "Finger": "4"
+          },
+          {
+            "String": 3,
+            "Fret": 13,
+            "Finger": "2"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 11,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "e_sus4",
+    "Root": "E",
+    "Quality": "Sus4",
+    "Name": "Esus4",
+    "Difficulty": "Beginner",
+    "Genres": [
+      "Pop",
+      "Rock",
+      "Alternative"
+    ],
+    "Variations": [
+      {
+        "VariationName": "Open Position",
+        "BaseFret": 1,
+        "MutedStrings": [],
+        "OpenStrings": [
+          1,
+          2,
+          6
+        ],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 2,
+            "Finger": "2"
+          },
+          {
+            "String": 4,
+            "Fret": 2,
+            "Finger": "3"
+          },
+          {
+            "String": 3,
+            "Fret": 2,
+            "Finger": "4"
+          }
+        ],
+        "Barres": []
+      }
+    ]
+  },
+  {
+    "Id": "f_sus4",
+    "Root": "F",
+    "Quality": "Sus4",
+    "Name": "Fsus4",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Pop",
+      "Rock",
+      "Alternative"
+    ],
+    "Variations": [
+      {
+        "VariationName": "E-Shape Sus4 Barre",
+        "BaseFret": 1,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 3,
+            "Finger": "3"
+          },
+          {
+            "String": 4,
+            "Fret": 3,
+            "Finger": "4"
+          },
+          {
+            "String": 3,
+            "Fret": 3,
+            "Finger": "2"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 1,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "fs_sus4",
+    "Root": "F#",
+    "Quality": "Sus4",
+    "Name": "F#sus4",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Pop",
+      "Rock",
+      "Alternative"
+    ],
+    "Variations": [
+      {
+        "VariationName": "E-Shape Sus4 Barre",
+        "BaseFret": 2,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 4,
+            "Finger": "3"
+          },
+          {
+            "String": 4,
+            "Fret": 4,
+            "Finger": "4"
+          },
+          {
+            "String": 3,
+            "Fret": 4,
+            "Finger": "2"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 2,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "g_sus4",
+    "Root": "G",
+    "Quality": "Sus4",
+    "Name": "Gsus4",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Pop",
+      "Rock",
+      "Alternative"
+    ],
+    "Variations": [
+      {
+        "VariationName": "E-Shape Sus4 Barre",
+        "BaseFret": 3,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 5,
+            "Finger": "3"
+          },
+          {
+            "String": 4,
+            "Fret": 5,
+            "Finger": "4"
+          },
+          {
+            "String": 3,
+            "Fret": 5,
+            "Finger": "2"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 3,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "ab_sus4",
+    "Root": "Ab",
+    "Quality": "Sus4",
+    "Name": "Absus4",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Pop",
+      "Rock",
+      "Alternative"
+    ],
+    "Variations": [
+      {
+        "VariationName": "E-Shape Sus4 Barre",
+        "BaseFret": 4,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 6,
+            "Finger": "3"
+          },
+          {
+            "String": 4,
+            "Fret": 6,
+            "Finger": "4"
+          },
+          {
+            "String": 3,
+            "Fret": 6,
+            "Finger": "2"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 4,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "a_sus4",
+    "Root": "A",
+    "Quality": "Sus4",
+    "Name": "Asus4",
+    "Difficulty": "Beginner",
+    "Genres": [
+      "Pop",
+      "Rock",
+      "Alternative"
+    ],
+    "Variations": [
+      {
+        "VariationName": "Open Position",
+        "BaseFret": 1,
+        "MutedStrings": [
+          6
+        ],
+        "OpenStrings": [
+          1,
+          5
+        ],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 2,
+            "Finger": "1"
+          },
+          {
+            "String": 3,
+            "Fret": 2,
+            "Finger": "2"
+          },
+          {
+            "String": 2,
+            "Fret": 3,
+            "Finger": "3"
+          }
+        ],
+        "Barres": []
+      },
+      {
+        "VariationName": "E-Shape Sus4 Barre",
+        "BaseFret": 5,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 7,
+            "Finger": "3"
+          },
+          {
+            "String": 4,
+            "Fret": 7,
+            "Finger": "4"
+          },
+          {
+            "String": 3,
+            "Fret": 7,
+            "Finger": "2"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 5,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "bb_sus4",
+    "Root": "Bb",
+    "Quality": "Sus4",
+    "Name": "Bbsus4",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Pop",
+      "Rock",
+      "Alternative"
+    ],
+    "Variations": [
+      {
+        "VariationName": "E-Shape Sus4 Barre",
+        "BaseFret": 6,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 8,
+            "Finger": "3"
+          },
+          {
+            "String": 4,
+            "Fret": 8,
+            "Finger": "4"
+          },
+          {
+            "String": 3,
+            "Fret": 8,
+            "Finger": "2"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 6,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "b_sus4",
+    "Root": "B",
+    "Quality": "Sus4",
+    "Name": "Bsus4",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Pop",
+      "Rock",
+      "Alternative"
+    ],
+    "Variations": [
+      {
+        "VariationName": "E-Shape Sus4 Barre",
+        "BaseFret": 7,
+        "MutedStrings": [],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 9,
+            "Finger": "3"
+          },
+          {
+            "String": 4,
+            "Fret": 9,
+            "Finger": "4"
+          },
+          {
+            "String": 3,
+            "Fret": 9,
+            "Finger": "2"
+          }
+        ],
+        "Barres": [
+          {
+            "Fret": 7,
+            "StartString": 1,
+            "EndString": 6,
+            "Finger": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "eb_dim",
+    "Root": "Eb",
+    "Quality": "Diminished",
+    "Name": "Ebdim",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Jazz",
+      "Classical",
+      "Blues"
+    ],
+    "Variations": [
+      {
+        "VariationName": "Movable Dim Shape",
+        "BaseFret": 1,
+        "MutedStrings": [
+          5,
+          6
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 1,
+            "Finger": "1"
+          },
+          {
+            "String": 3,
+            "Fret": 2,
+            "Finger": "2"
+          },
+          {
+            "String": 2,
+            "Fret": 1,
+            "Finger": "1"
+          },
+          {
+            "String": 1,
+            "Fret": 2,
+            "Finger": "3"
+          }
+        ],
+        "Barres": []
+      }
+    ]
+  },
+  {
+    "Id": "e_dim",
+    "Root": "E",
+    "Quality": "Diminished",
+    "Name": "Edim",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Jazz",
+      "Classical",
+      "Blues"
+    ],
+    "Variations": [
+      {
+        "VariationName": "Movable Dim Shape",
+        "BaseFret": 2,
+        "MutedStrings": [
+          5,
+          6
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 2,
+            "Finger": "1"
+          },
+          {
+            "String": 3,
+            "Fret": 3,
+            "Finger": "2"
+          },
+          {
+            "String": 2,
+            "Fret": 2,
+            "Finger": "1"
+          },
+          {
+            "String": 1,
+            "Fret": 3,
+            "Finger": "3"
+          }
+        ],
+        "Barres": []
+      }
+    ]
+  },
+  {
+    "Id": "f_dim",
+    "Root": "F",
+    "Quality": "Diminished",
+    "Name": "Fdim",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Jazz",
+      "Classical",
+      "Blues"
+    ],
+    "Variations": [
+      {
+        "VariationName": "Movable Dim Shape",
+        "BaseFret": 3,
+        "MutedStrings": [
+          5,
+          6
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 3,
+            "Finger": "1"
+          },
+          {
+            "String": 3,
+            "Fret": 4,
+            "Finger": "2"
+          },
+          {
+            "String": 2,
+            "Fret": 3,
+            "Finger": "1"
+          },
+          {
+            "String": 1,
+            "Fret": 4,
+            "Finger": "3"
+          }
+        ],
+        "Barres": []
+      }
+    ]
+  },
+  {
+    "Id": "fs_dim",
+    "Root": "F#",
+    "Quality": "Diminished",
+    "Name": "F#dim",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Jazz",
+      "Classical",
+      "Blues"
+    ],
+    "Variations": [
+      {
+        "VariationName": "Movable Dim Shape",
+        "BaseFret": 4,
+        "MutedStrings": [
+          5,
+          6
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 4,
+            "Finger": "1"
+          },
+          {
+            "String": 3,
+            "Fret": 5,
+            "Finger": "2"
+          },
+          {
+            "String": 2,
+            "Fret": 4,
+            "Finger": "1"
+          },
+          {
+            "String": 1,
+            "Fret": 5,
+            "Finger": "3"
+          }
+        ],
+        "Barres": []
+      }
+    ]
+  },
+  {
+    "Id": "g_dim",
+    "Root": "G",
+    "Quality": "Diminished",
+    "Name": "Gdim",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Jazz",
+      "Classical",
+      "Blues"
+    ],
+    "Variations": [
+      {
+        "VariationName": "Movable Dim Shape",
+        "BaseFret": 5,
+        "MutedStrings": [
+          5,
+          6
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 5,
+            "Finger": "1"
+          },
+          {
+            "String": 3,
+            "Fret": 6,
+            "Finger": "2"
+          },
+          {
+            "String": 2,
+            "Fret": 5,
+            "Finger": "1"
+          },
+          {
+            "String": 1,
+            "Fret": 6,
+            "Finger": "3"
+          }
+        ],
+        "Barres": []
+      }
+    ]
+  },
+  {
+    "Id": "ab_dim",
+    "Root": "Ab",
+    "Quality": "Diminished",
+    "Name": "Abdim",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Jazz",
+      "Classical",
+      "Blues"
+    ],
+    "Variations": [
+      {
+        "VariationName": "Movable Dim Shape",
+        "BaseFret": 6,
+        "MutedStrings": [
+          5,
+          6
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 6,
+            "Finger": "1"
+          },
+          {
+            "String": 3,
+            "Fret": 7,
+            "Finger": "2"
+          },
+          {
+            "String": 2,
+            "Fret": 6,
+            "Finger": "1"
+          },
+          {
+            "String": 1,
+            "Fret": 7,
+            "Finger": "3"
+          }
+        ],
+        "Barres": []
+      }
+    ]
+  },
+  {
+    "Id": "a_dim",
+    "Root": "A",
+    "Quality": "Diminished",
+    "Name": "Adim",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Jazz",
+      "Classical",
+      "Blues"
+    ],
+    "Variations": [
+      {
+        "VariationName": "Movable Dim Shape",
+        "BaseFret": 7,
+        "MutedStrings": [
+          5,
+          6
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 7,
+            "Finger": "1"
+          },
+          {
+            "String": 3,
+            "Fret": 8,
+            "Finger": "2"
+          },
+          {
+            "String": 2,
+            "Fret": 7,
+            "Finger": "1"
+          },
+          {
+            "String": 1,
+            "Fret": 8,
+            "Finger": "3"
+          }
+        ],
+        "Barres": []
+      }
+    ]
+  },
+  {
+    "Id": "bb_dim",
+    "Root": "Bb",
+    "Quality": "Diminished",
+    "Name": "Bbdim",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Jazz",
+      "Classical",
+      "Blues"
+    ],
+    "Variations": [
+      {
+        "VariationName": "Movable Dim Shape",
+        "BaseFret": 8,
+        "MutedStrings": [
+          5,
+          6
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 8,
+            "Finger": "1"
+          },
+          {
+            "String": 3,
+            "Fret": 9,
+            "Finger": "2"
+          },
+          {
+            "String": 2,
+            "Fret": 8,
+            "Finger": "1"
+          },
+          {
+            "String": 1,
+            "Fret": 9,
+            "Finger": "3"
+          }
+        ],
+        "Barres": []
+      }
+    ]
+  },
+  {
+    "Id": "b_dim",
+    "Root": "B",
+    "Quality": "Diminished",
+    "Name": "Bdim",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Jazz",
+      "Classical",
+      "Blues"
+    ],
+    "Variations": [
+      {
+        "VariationName": "Movable Dim Shape",
+        "BaseFret": 9,
+        "MutedStrings": [
+          5,
+          6
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 9,
+            "Finger": "1"
+          },
+          {
+            "String": 3,
+            "Fret": 10,
+            "Finger": "2"
+          },
+          {
+            "String": 2,
+            "Fret": 9,
+            "Finger": "1"
+          },
+          {
+            "String": 1,
+            "Fret": 10,
+            "Finger": "3"
+          }
+        ],
+        "Barres": []
+      }
+    ]
+  },
+  {
+    "Id": "c_5",
+    "Root": "C",
+    "Quality": "Power",
+    "Name": "C5",
+    "Difficulty": "Beginner",
+    "Genres": [
+      "Rock",
+      "Metal",
+      "Punk",
+      "Grunge"
+    ],
+    "Variations": [
+      {
+        "VariationName": "6th String Root",
+        "BaseFret": 8,
+        "MutedStrings": [
+          1,
+          2,
+          3
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 6,
+            "Fret": 8,
+            "Finger": "1"
+          },
+          {
+            "String": 5,
+            "Fret": 10,
+            "Finger": "3"
+          },
+          {
+            "String": 4,
+            "Fret": 10,
+            "Finger": "4"
+          }
+        ],
+        "Barres": []
+      }
+    ]
+  },
+  {
+    "Id": "cs_5",
+    "Root": "C#",
+    "Quality": "Power",
+    "Name": "C#5",
+    "Difficulty": "Beginner",
+    "Genres": [
+      "Rock",
+      "Metal",
+      "Punk",
+      "Grunge"
+    ],
+    "Variations": [
+      {
+        "VariationName": "6th String Root",
+        "BaseFret": 9,
+        "MutedStrings": [
+          1,
+          2,
+          3
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 6,
+            "Fret": 9,
+            "Finger": "1"
+          },
+          {
+            "String": 5,
+            "Fret": 11,
+            "Finger": "3"
+          },
+          {
+            "String": 4,
+            "Fret": 11,
+            "Finger": "4"
+          }
+        ],
+        "Barres": []
+      }
+    ]
+  },
+  {
+    "Id": "d_5",
+    "Root": "D",
+    "Quality": "Power",
+    "Name": "D5",
+    "Difficulty": "Beginner",
+    "Genres": [
+      "Rock",
+      "Metal",
+      "Punk",
+      "Grunge"
+    ],
+    "Variations": [
+      {
+        "VariationName": "6th String Root",
+        "BaseFret": 10,
+        "MutedStrings": [
+          1,
+          2,
+          3
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 6,
+            "Fret": 10,
+            "Finger": "1"
+          },
+          {
+            "String": 5,
+            "Fret": 12,
+            "Finger": "3"
+          },
+          {
+            "String": 4,
+            "Fret": 12,
+            "Finger": "4"
+          }
+        ],
+        "Barres": []
+      }
+    ]
+  },
+  {
+    "Id": "eb_5",
+    "Root": "Eb",
+    "Quality": "Power",
+    "Name": "Eb5",
+    "Difficulty": "Beginner",
+    "Genres": [
+      "Rock",
+      "Metal",
+      "Punk",
+      "Grunge"
+    ],
+    "Variations": [
+      {
+        "VariationName": "6th String Root",
+        "BaseFret": 11,
+        "MutedStrings": [
+          1,
+          2,
+          3
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 6,
+            "Fret": 11,
+            "Finger": "1"
+          },
+          {
+            "String": 5,
+            "Fret": 13,
+            "Finger": "3"
+          },
+          {
+            "String": 4,
+            "Fret": 13,
+            "Finger": "4"
+          }
+        ],
+        "Barres": []
+      }
+    ]
+  },
+  {
+    "Id": "e_5",
+    "Root": "E",
+    "Quality": "Power",
+    "Name": "E5",
+    "Difficulty": "Beginner",
+    "Genres": [
+      "Rock",
+      "Metal",
+      "Punk",
+      "Grunge"
+    ],
+    "Variations": [
+      {
+        "VariationName": "6th String Root",
+        "BaseFret": 1,
+        "MutedStrings": [
+          1,
+          2,
+          3
+        ],
+        "OpenStrings": [
+          6
+        ],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 2,
+            "Finger": "2"
+          },
+          {
+            "String": 4,
+            "Fret": 2,
+            "Finger": "3"
+          }
+        ],
+        "Barres": []
+      }
+    ]
+  },
+  {
+    "Id": "f_5",
+    "Root": "F",
+    "Quality": "Power",
+    "Name": "F5",
+    "Difficulty": "Beginner",
+    "Genres": [
+      "Rock",
+      "Metal",
+      "Punk",
+      "Grunge"
+    ],
+    "Variations": [
+      {
+        "VariationName": "6th String Root",
+        "BaseFret": 1,
+        "MutedStrings": [
+          1,
+          2,
+          3
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 6,
+            "Fret": 1,
+            "Finger": "1"
+          },
+          {
+            "String": 5,
+            "Fret": 3,
+            "Finger": "3"
+          },
+          {
+            "String": 4,
+            "Fret": 3,
+            "Finger": "4"
+          }
+        ],
+        "Barres": []
+      }
+    ]
+  },
+  {
+    "Id": "fs_5",
+    "Root": "F#",
+    "Quality": "Power",
+    "Name": "F#5",
+    "Difficulty": "Beginner",
+    "Genres": [
+      "Rock",
+      "Metal",
+      "Punk",
+      "Grunge"
+    ],
+    "Variations": [
+      {
+        "VariationName": "6th String Root",
+        "BaseFret": 2,
+        "MutedStrings": [
+          1,
+          2,
+          3
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 6,
+            "Fret": 2,
+            "Finger": "1"
+          },
+          {
+            "String": 5,
+            "Fret": 4,
+            "Finger": "3"
+          },
+          {
+            "String": 4,
+            "Fret": 4,
+            "Finger": "4"
+          }
+        ],
+        "Barres": []
+      }
+    ]
+  },
+  {
+    "Id": "g_5",
+    "Root": "G",
+    "Quality": "Power",
+    "Name": "G5",
+    "Difficulty": "Beginner",
+    "Genres": [
+      "Rock",
+      "Metal",
+      "Punk",
+      "Grunge"
+    ],
+    "Variations": [
+      {
+        "VariationName": "6th String Root",
+        "BaseFret": 3,
+        "MutedStrings": [
+          1,
+          2,
+          3
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 6,
+            "Fret": 3,
+            "Finger": "1"
+          },
+          {
+            "String": 5,
+            "Fret": 5,
+            "Finger": "3"
+          },
+          {
+            "String": 4,
+            "Fret": 5,
+            "Finger": "4"
+          }
+        ],
+        "Barres": []
+      }
+    ]
+  },
+  {
+    "Id": "ab_5",
+    "Root": "Ab",
+    "Quality": "Power",
+    "Name": "Ab5",
+    "Difficulty": "Beginner",
+    "Genres": [
+      "Rock",
+      "Metal",
+      "Punk",
+      "Grunge"
+    ],
+    "Variations": [
+      {
+        "VariationName": "6th String Root",
+        "BaseFret": 4,
+        "MutedStrings": [
+          1,
+          2,
+          3
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 6,
+            "Fret": 4,
+            "Finger": "1"
+          },
+          {
+            "String": 5,
+            "Fret": 6,
+            "Finger": "3"
+          },
+          {
+            "String": 4,
+            "Fret": 6,
+            "Finger": "4"
+          }
+        ],
+        "Barres": []
+      }
+    ]
+  },
+  {
+    "Id": "a_5",
+    "Root": "A",
+    "Quality": "Power",
+    "Name": "A5",
+    "Difficulty": "Beginner",
+    "Genres": [
+      "Rock",
+      "Metal",
+      "Punk",
+      "Grunge"
+    ],
+    "Variations": [
+      {
+        "VariationName": "6th String Root",
+        "BaseFret": 5,
+        "MutedStrings": [
+          1,
+          2,
+          3
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 6,
+            "Fret": 5,
+            "Finger": "1"
+          },
+          {
+            "String": 5,
+            "Fret": 7,
+            "Finger": "3"
+          },
+          {
+            "String": 4,
+            "Fret": 7,
+            "Finger": "4"
+          }
+        ],
+        "Barres": []
+      }
+    ]
+  },
+  {
+    "Id": "bb_5",
+    "Root": "Bb",
+    "Quality": "Power",
+    "Name": "Bb5",
+    "Difficulty": "Beginner",
+    "Genres": [
+      "Rock",
+      "Metal",
+      "Punk",
+      "Grunge"
+    ],
+    "Variations": [
+      {
+        "VariationName": "6th String Root",
+        "BaseFret": 6,
+        "MutedStrings": [
+          1,
+          2,
+          3
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 6,
+            "Fret": 6,
+            "Finger": "1"
+          },
+          {
+            "String": 5,
+            "Fret": 8,
+            "Finger": "3"
+          },
+          {
+            "String": 4,
+            "Fret": 8,
+            "Finger": "4"
+          }
+        ],
+        "Barres": []
+      }
+    ]
+  },
+  {
+    "Id": "b_5",
+    "Root": "B",
+    "Quality": "Power",
+    "Name": "B5",
+    "Difficulty": "Beginner",
+    "Genres": [
+      "Rock",
+      "Metal",
+      "Punk",
+      "Grunge"
+    ],
+    "Variations": [
+      {
+        "VariationName": "6th String Root",
+        "BaseFret": 7,
+        "MutedStrings": [
+          1,
+          2,
+          3
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 6,
+            "Fret": 7,
+            "Finger": "1"
+          },
+          {
+            "String": 5,
+            "Fret": 9,
+            "Finger": "3"
+          },
+          {
+            "String": 4,
+            "Fret": 9,
+            "Finger": "4"
+          }
+        ],
+        "Barres": []
+      }
+    ]
+  },
+  {
+    "Id": "e_7s9",
+    "Root": "E",
+    "Quality": "7#9",
+    "Name": "E7#9",
+    "Difficulty": "Advanced",
+    "Genres": [
+      "Blues",
+      "Rock",
+      "Funk",
+      "Psychedelic"
+    ],
+    "Variations": [
+      {
+        "VariationName": "Standard Position",
+        "BaseFret": 1,
+        "MutedStrings": [
+          6
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 2,
+            "Finger": "2"
+          },
+          {
+            "String": 3,
+            "Fret": 1,
+            "Finger": "1"
+          },
+          {
+            "String": 1,
+            "Fret": 3,
+            "Finger": "4"
+          }
+        ],
+        "Barres": []
+      }
+    ]
+  },
+  {
+    "Id": "e_9",
+    "Root": "E",
+    "Quality": "Dominant 9",
+    "Name": "E9",
+    "Difficulty": "Advanced",
+    "Genres": [
+      "Funk",
+      "Blues",
+      "Soul"
+    ],
+    "Variations": [
+      {
+        "VariationName": "Open Position",
+        "BaseFret": 1,
+        "MutedStrings": [
+          5,
+          6
+        ],
+        "OpenStrings": [],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 1,
+            "Finger": "1"
+          },
+          {
+            "String": 1,
+            "Fret": 2,
+            "Finger": "2"
+          }
+        ],
+        "Barres": []
+      }
+    ]
+  },
+  {
+    "Id": "c_add9",
+    "Root": "C",
+    "Quality": "Add9",
+    "Name": "Cadd9",
+    "Difficulty": "Beginner",
+    "Genres": [
+      "Pop",
+      "Rock",
+      "Alternative",
+      "Worship"
+    ],
+    "Variations": [
+      {
+        "VariationName": "Open Position",
+        "BaseFret": 1,
+        "MutedStrings": [
+          6
+        ],
+        "OpenStrings": [
+          1
+        ],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 3,
+            "Finger": "2"
+          },
+          {
+            "String": 4,
+            "Fret": 2,
+            "Finger": "1"
+          },
+          {
+            "String": 2,
+            "Fret": 3,
+            "Finger": "3"
+          }
+        ],
+        "Barres": []
+      }
+    ]
+  },
+  {
+    "Id": "d_add9",
+    "Root": "D",
+    "Quality": "Add9",
+    "Name": "Dadd9",
+    "Difficulty": "Beginner",
+    "Genres": [
+      "Pop",
+      "Rock",
+      "Alternative",
+      "Worship"
+    ],
+    "Variations": [
+      {
+        "VariationName": "Open Position",
+        "BaseFret": 1,
+        "MutedStrings": [
+          5,
+          6
+        ],
+        "OpenStrings": [
+          1,
+          4
+        ],
+        "Positions": [
+          {
+            "String": 3,
+            "Fret": 2,
+            "Finger": "1"
+          },
+          {
+            "String": 2,
+            "Fret": 3,
+            "Finger": "3"
+          }
+        ],
+        "Barres": []
+      }
+    ]
+  },
+  {
+    "Id": "g_add9",
+    "Root": "G",
+    "Quality": "Add9",
+    "Name": "Gadd9",
+    "Difficulty": "Beginner",
+    "Genres": [
+      "Pop",
+      "Rock",
+      "Alternative",
+      "Worship"
+    ],
+    "Variations": [
+      {
+        "VariationName": "Open Position",
+        "BaseFret": 1,
+        "MutedStrings": [],
+        "OpenStrings": [
+          2,
+          4
+        ],
+        "Positions": [
+          {
+            "String": 6,
+            "Fret": 3,
+            "Finger": "2"
+          },
+          {
+            "String": 1,
+            "Fret": 3,
+            "Finger": "3"
+          }
+        ],
+        "Barres": []
+      }
+    ]
+  },
+  {
+    "Id": "a_add9",
+    "Root": "A",
+    "Quality": "Add9",
+    "Name": "Aadd9",
+    "Difficulty": "Beginner",
+    "Genres": [
+      "Pop",
+      "Rock",
+      "Alternative",
+      "Worship"
+    ],
+    "Variations": [
+      {
+        "VariationName": "Open Position",
+        "BaseFret": 1,
+        "MutedStrings": [
+          6
+        ],
+        "OpenStrings": [
+          1,
+          2,
+          5
+        ],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 2,
+            "Finger": "1"
+          },
+          {
+            "String": 3,
+            "Fret": 2,
+            "Finger": "2"
+          }
+        ],
+        "Barres": []
+      }
+    ]
+  },
+  {
+    "Id": "c_6",
+    "Root": "C",
+    "Quality": "6th",
+    "Name": "C6",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Jazz",
+      "Blues",
+      "Country",
+      "Swing"
+    ],
+    "Variations": [
+      {
+        "VariationName": "Open Position",
+        "BaseFret": 1,
+        "MutedStrings": [
+          6
+        ],
+        "OpenStrings": [
+          1
+        ],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 3,
+            "Finger": "3"
+          },
+          {
+            "String": 4,
+            "Fret": 2,
+            "Finger": "2"
+          },
+          {
+            "String": 3,
+            "Fret": 2,
+            "Finger": "1"
+          }
+        ],
+        "Barres": []
+      }
+    ]
+  },
+  {
+    "Id": "a_6",
+    "Root": "A",
+    "Quality": "6th",
+    "Name": "A6",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Jazz",
+      "Blues",
+      "Country",
+      "Swing"
+    ],
+    "Variations": [
+      {
+        "VariationName": "Open Position",
+        "BaseFret": 1,
+        "MutedStrings": [
+          6
+        ],
+        "OpenStrings": [
+          1,
+          5
+        ],
+        "Positions": [
+          {
+            "String": 4,
+            "Fret": 2,
+            "Finger": "1"
+          },
+          {
+            "String": 3,
+            "Fret": 2,
+            "Finger": "2"
+          },
+          {
+            "String": 2,
+            "Fret": 2,
+            "Finger": "3"
+          }
+        ],
+        "Barres": []
+      }
+    ]
+  },
+  {
+    "Id": "e_6",
+    "Root": "E",
+    "Quality": "6th",
+    "Name": "E6",
+    "Difficulty": "Intermediate",
+    "Genres": [
+      "Jazz",
+      "Blues",
+      "Country",
+      "Swing"
+    ],
+    "Variations": [
+      {
+        "VariationName": "Open Position",
+        "BaseFret": 1,
+        "MutedStrings": [],
+        "OpenStrings": [
+          6
+        ],
+        "Positions": [
+          {
+            "String": 5,
+            "Fret": 2,
+            "Finger": "2"
+          },
+          {
+            "String": 4,
+            "Fret": 2,
+            "Finger": "3"
+          },
+          {
+            "String": 3,
+            "Fret": 1,
+            "Finger": "1"
+          },
+          {
+            "String": 2,
+            "Fret": 2,
+            "Finger": "4"
+          }
+        ],
+        "Barres": []
+      }
+    ]
+  }
+]

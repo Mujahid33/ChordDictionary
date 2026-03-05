@@ -1,0 +1,6 @@
+/* ===== FRETBOARD DIAGRAM STYLES ===== */
+
+.fretboard {
+    display: block;
+    user-select: none;
+}
