@@ -31,13 +31,13 @@ export function Header({ title = 'Chord Dictionary', showBack = false, actions }
 
             <div className="header__actions">
                 {actions}
-                <button
+                {/* <button
                     className="header__action"
                     onClick={() => navigate('/settings')}
                     aria-label="Settings"
                 >
                     <span className="material-symbols-rounded">settings</span>
-                </button>
+                </button> */}
             </div>
         </header>
     );
